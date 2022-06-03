@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: e60db967f0a9aee48b3eea219078e649
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Trinidad Neue
+  fontNames:
+  - Trinidad Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c14f28a12ccf8d040bcb292795d50959, type: 3}
+  - {fileID: 12800000, guid: 15721b92348dc3f4981937731e634d2f, type: 3}
+  - {fileID: 12800000, guid: a054c26323ec5854b8c742885515df5a, type: 3}
+  - {fileID: 12800000, guid: a644bab3884ca424cb6b6b805ff65581, type: 3}
+  - {fileID: 12800000, guid: 105e7564112719c4aa3846bbe97f3e89, type: 3}
+  - {fileID: 12800000, guid: 85cbfbb69d5e2814cb1ed2dcd8e416fa, type: 3}
+  - {fileID: 12800000, guid: a0d1d558b53104d4a869824f4f5dc981, type: 3}
+  - {fileID: 12800000, guid: 44dbe8b8d0e8f6940ad36d4b27a1b6e6, type: 3}
+  - {fileID: 12800000, guid: 90a779099b7321b4c91b6e4fce96c513, type: 3}
+  - {fileID: 12800000, guid: a02c6e0c05895024695d26ba7b14bb59, type: 3}
+  - {fileID: 12800000, guid: 93d4157c88644f7469261ad33016a1c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

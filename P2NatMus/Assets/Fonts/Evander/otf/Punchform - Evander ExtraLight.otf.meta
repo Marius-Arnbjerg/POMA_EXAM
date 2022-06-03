@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dcfc2ddbf135d0140857715b73a5cfac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Evander
+  fontNames:
+  - Evander
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 36febfb35b485924b94a429d138918aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
